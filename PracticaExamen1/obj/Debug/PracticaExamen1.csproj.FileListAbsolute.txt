@@ -1,0 +1,8 @@
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\obj\Debug\PracticaExamen1.csproj.AssemblyReference.cache
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\obj\Debug\PracticaExamen1.csproj.SuggestedBindingRedirects.cache
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\obj\Debug\PracticaExamen1.csproj.CoreCompileInputs.cache
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\bin\Debug\PracticaExamen1.exe.config
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\bin\Debug\PracticaExamen1.exe
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\bin\Debug\PracticaExamen1.pdb
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\obj\Debug\PracticaExamen1.exe
+C:\RespositorioGit\Práctica Examen 1\PracticaExamen1\obj\Debug\PracticaExamen1.pdb
